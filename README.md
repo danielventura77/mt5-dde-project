@@ -1,4 +1,4 @@
-# marketdata-websocket
+# mt5-dde-project
 Este projeto consiste no módulo mt5-dde-project do diagrama de arquitetura abaixo e tem como função disponibilizar um DDE server para fornecer as cotações de um ativo financeiro em tempo real.
 O módulo publisher-marketdata está conectado a um broker através do DDE server que fornece as cotações em tempo real. 
 
