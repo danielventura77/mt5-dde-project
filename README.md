@@ -7,7 +7,7 @@ O módulo publisher-marketdata por sua vez publica as cotações recebidas no we
 ![Alt text](dde.png?raw=true "Funcionamento DDE")
 
 # Diagrama de Arquitetura
-<a href="http://ec2-18-231-160-253.sa-east-1.compute.amazonaws.com:8082/" target="_blank">![Alt text](MarketdataWebsocket.png?raw=true "Ir para Aplicação")</a>
+<a href="http://ec2-15-228-11-114.sa-east-1.compute.amazonaws.com:8082/" target="_blank">![Alt text](MarketdataWebsocket.png?raw=true "Ir para Aplicação")</a>
 
 # Demo
 <a href="http://ec2-15-228-11-114.sa-east-1.compute.amazonaws.com:8082/" target="_blank">http://ec2-15-228-11-114.sa-east-1.compute.amazonaws.com:8082</a>
